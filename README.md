@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm sorry I don't have anything fo show you here.
+### I'm sorry I don't have anything to show you here.
 
 <!--
 **Paper-Folding/paper-folding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
