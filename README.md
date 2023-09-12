@@ -1,5 +1,10 @@
-### Hi there 👋
-### I'm sorry I don't have anything to show you here.
+## Hi there 👋
+### I prefer to use Java 🍵
+### I also write Python 😉
+### Javascript & Typescript are my favorite ❤️
+### I also write react, vue and so on 😊
+### I work on Android App Development, too 🙌
+### And I prefer electron than Qt 👀 
 
 <!--
 **Paper-Folding/paper-folding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
